@@ -1,9 +1,11 @@
+# Backend
 fastapi
 uvicorn[standard]
-sentence-transformers
-transformers
-torch
-faiss-cpu
 pdfplumber
-pydantic
-ollama
+sentence-transformers
+faiss-cpu
+reportlab
+requests
+
+# Frontend
+streamlit
