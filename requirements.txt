@@ -6,3 +6,4 @@ torch
 faiss-cpu
 pdfplumber
 pydantic
+ollama
